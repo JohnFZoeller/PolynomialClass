@@ -1,4 +1,5 @@
 # PolynomialClass
+Author : John Zoeller
 
 Created 1/6/16 for CSS 343 - Data Structures and Algorithms at The University of Washington Bothell
 
